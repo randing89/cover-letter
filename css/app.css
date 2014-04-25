@@ -1,0 +1,25 @@
+.container {
+  margin-top: 25px;
+}
+
+.left .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.left textarea {
+  height: 200px;
+}
+
+.left .attention {
+  width: 300px;
+}
+
+.left .attention,
+.left .contacts {
+  width: 300px;
+}
+
+.right {
+  padding-top: 20px;
+}
